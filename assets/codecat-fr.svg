@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="584" height="292" viewBox="0 0 584 292" role="img" aria-labelledby="title"><title id="title">CodeCat — Une vitrine pour l’écosystème CodeCat. Un site de marque de produits IA, créé avec React et TypeScript.</title>
+  <defs><linearGradient id="c" x2="1" y2="1"><stop stop-color="#101b29"/><stop offset="1" stop-color="#0c1521"/></linearGradient></defs>
+  <rect x=".5" y=".5" width="583" height="291" rx="14" fill="url(#c)" stroke="#2a3545"/>
+  <text x="28" y="35" font-size="12" fill="#d8c9a6" font-family="'Segoe UI','Microsoft YaHei','Yu Gothic',Arial,sans-serif" letter-spacing="2">02 / WEB / IDENTITY</text>
+  <path d="M531 30h18v18m0-18-23 23" fill="none" stroke="#d8c9a6" stroke-width="1.5"/>
+  <text x="27" y="91" font-size="40" fill="#f0ece3" font-family="'Segoe UI','Microsoft YaHei','Yu Gothic',Arial,sans-serif" font-weight="600" letter-spacing="-1">CodeCat</text>
+  <text x="28" y="133" font-size="19" fill="#aeb9c7" font-family="'Segoe UI','Microsoft YaHei','Yu Gothic',Arial,sans-serif" >Une vitrine pour l’écosystème CodeCat.</text><text x="28" y="161" font-size="19" fill="#aeb9c7" font-family="'Segoe UI','Microsoft YaHei','Yu Gothic',Arial,sans-serif" >Un site de marque de produits IA,</text><text x="28" y="189" font-size="19" fill="#aeb9c7" font-family="'Segoe UI','Microsoft YaHei','Yu Gothic',Arial,sans-serif" >créé avec React et TypeScript.</text>
+  <path d="M28 236H556" stroke="#26303e"/>
+  <text x="28" y="267" font-size="11.5" fill="#d8c9a6" font-family="'Segoe UI','Microsoft YaHei','Yu Gothic',Arial,sans-serif" letter-spacing="1">TYPESCRIPT  /  REACT  /  TAILWIND</text></svg>

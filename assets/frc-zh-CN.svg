@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="584" height="292" viewBox="0 0 584 292" role="img" aria-labelledby="title"><title id="title">FRC — 从软件，走向赛场。 使用 Java 编写的 FRC 机器人代码。</title>
+  <defs><linearGradient id="c" x2="1" y2="1"><stop stop-color="#101b29"/><stop offset="1" stop-color="#0c1521"/></linearGradient></defs>
+  <rect x=".5" y=".5" width="583" height="291" rx="14" fill="url(#c)" stroke="#2a3545"/>
+  <text x="28" y="35" font-size="12" fill="#b7cbd8" font-family="'Segoe UI','Microsoft YaHei','Yu Gothic',Arial,sans-serif" letter-spacing="2">04 / ROBOTICS / FRC</text>
+  <path d="M531 30h18v18m0-18-23 23" fill="none" stroke="#b7cbd8" stroke-width="1.5"/>
+  <text x="27" y="91" font-size="40" fill="#f0ece3" font-family="'Segoe UI','Microsoft YaHei','Yu Gothic',Arial,sans-serif" font-weight="600" letter-spacing="-1">FRC</text>
+  <text x="28" y="133" font-size="19" fill="#aeb9c7" font-family="'Segoe UI','Microsoft YaHei','Yu Gothic',Arial,sans-serif" >从软件，走向赛场。</text><text x="28" y="161" font-size="19" fill="#aeb9c7" font-family="'Segoe UI','Microsoft YaHei','Yu Gothic',Arial,sans-serif" >使用 Java 编写的</text><text x="28" y="189" font-size="19" fill="#aeb9c7" font-family="'Segoe UI','Microsoft YaHei','Yu Gothic',Arial,sans-serif" >FRC 机器人代码。</text>
+  <path d="M28 236H556" stroke="#26303e"/>
+  <text x="28" y="267" font-size="11.5" fill="#b7cbd8" font-family="'Segoe UI','Microsoft YaHei','Yu Gothic',Arial,sans-serif" letter-spacing="1">JAVA  /  ROBOT CONTROL</text></svg>

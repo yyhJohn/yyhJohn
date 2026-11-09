@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title"><title id="title">yyhJohn — Herramientas de IA. Datos. Robótica.</title>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1420"/><stop offset="1" stop-color="#111d2b"/></linearGradient><radialGradient id="halo"><stop stop-color="#c8b991" stop-opacity=".12"/><stop offset="1" stop-color="#c8b991" stop-opacity="0"/></radialGradient><linearGradient id="gold"><stop stop-color="#e6d8b4"/><stop offset="1" stop-color="#8b8065"/></linearGradient></defs>
+  <rect width="1200" height="440" rx="18" fill="url(#bg)"/>
+  <rect x=".5" y=".5" width="1199" height="439" rx="18" stroke="#d8c9a6" stroke-opacity=".22" fill="none"/>
+  <path d="M56 49h30" stroke="#d8c9a6" stroke-width="2"/>
+  <text x="99" y="54" font-size="15" fill="#d8c9a6" font-family="'Segoe UI','Microsoft YaHei','Yu Gothic',Arial,sans-serif" letter-spacing="3">YYHJOHN / PORTFOLIO</text>
+  <text x="56" y="116" font-size="13" fill="#8d9aa9" font-family="'Segoe UI','Microsoft YaHei','Yu Gothic',Arial,sans-serif" >UNA COLECCIÓN PERSONAL DE CÓDIGO Y CURIOSIDAD</text>
+  <text x="51" y="230" font-size="69" fill="#f0ece3" font-family="Georgia,'Microsoft YaHei','Yu Gothic',serif" letter-spacing="-2">Ideas hechas realidad.</text>
+  <text x="56" y="287" font-size="24" fill="#c4b48d" font-family="'Segoe UI','Microsoft YaHei','Yu Gothic',Arial,sans-serif" >Herramientas de IA. Datos. Robótica.</text>
+  <path d="M56 345H684" stroke="#26303e"/>
+  <text x="56" y="386" font-size="14" fill="#8d9aa9" font-family="'Segoe UI','Microsoft YaHei','Yu Gothic',Arial,sans-serif" letter-spacing="3">CODE  /  DATA  /  ROBOTICS</text>
+  <circle cx="985" cy="222" r="210" fill="url(#halo)"/>
+  <g transform="translate(985 222)">
+    <circle r="133" fill="none" stroke="#d8c9a6" stroke-opacity=".22"/>
+    <circle r="106" fill="none" stroke="#d8c9a6" stroke-opacity=".33"/>
+    <ellipse rx="106" ry="42" fill="none" stroke="#d8c9a6" stroke-opacity=".35" transform="rotate(-35)"/>
+    <ellipse rx="42" ry="106" fill="none" stroke="#d8c9a6" stroke-opacity=".35" transform="rotate(-35)"/>
+    <path d="M-155 0H155M0-155V155" stroke="#d8c9a6" stroke-opacity=".12"/>
+    <path d="M-102 -85A133 133 0 0 1 130 29" fill="none" stroke="url(#gold)" stroke-width="2"/>
+    <circle cx="-102" cy="-85" r="5" fill="#d8c9a6"/>
+    <circle cx="130" cy="29" r="4" fill="#d8c9a6"/>
+    <circle r="29" fill="#101b28" stroke="#d8c9a6" stroke-opacity=".55"/>
+    <text y="9" text-anchor="middle" font-family="Georgia,serif" font-size="27" fill="#d8c9a6">J</text>
+  </g>
+  <text x="1108" y="395" font-size="12" fill="#8d9aa9" font-family="'Segoe UI','Microsoft YaHei','Yu Gothic',Arial,sans-serif" text-anchor="end" letter-spacing="2">ES</text></svg>
