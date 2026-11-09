@@ -1,37 +1,35 @@
-<p align="center">
-<a href="https://github.com/yyhJohn/yyhJohn/blob/main/README.md"><img src="https://raw.githubusercontent.com/yyhJohn/yyhJohn/main/assets/lang-en.svg" height="30" alt="English" /></a>
-<a href="https://github.com/yyhJohn/yyhJohn/blob/main/README.zh-CN.md"><img src="https://raw.githubusercontent.com/yyhJohn/yyhJohn/main/assets/lang-zh-CN.svg" height="30" alt="简体中文" /></a>
-<a href="https://github.com/yyhJohn/yyhJohn/blob/main/README.ja.md"><img src="https://raw.githubusercontent.com/yyhJohn/yyhJohn/main/assets/lang-ja.svg" height="30" alt="日本語" /></a>
-<a href="https://github.com/yyhJohn/yyhJohn/blob/main/README.de.md"><img src="https://raw.githubusercontent.com/yyhJohn/yyhJohn/main/assets/lang-de-active.svg" height="30" alt="Deutsch ✓" /></a>
-<a href="https://github.com/yyhJohn/yyhJohn/blob/main/README.fr.md"><img src="https://raw.githubusercontent.com/yyhJohn/yyhJohn/main/assets/lang-fr.svg" height="30" alt="Français" /></a>
-<a href="https://github.com/yyhJohn/yyhJohn/blob/main/README.es.md"><img src="https://raw.githubusercontent.com/yyhJohn/yyhJohn/main/assets/lang-es.svg" height="30" alt="Español" /></a>
-</p>
+<h1 align="center">Hallo 👋, ich bin yyhJohn</h1>
 
-<img src="https://raw.githubusercontent.com/yyhJohn/yyhJohn/main/assets/hero-de.svg" width="100%" alt="yyhJohn — KI-Werkzeuge. Datenanalyse. Robotik." />
+<p align="center"><img src="https://raw.githubusercontent.com/yyhJohn/yyhJohn/main/assets/typing-de.svg?v=developer-20261109" width="760" height="52" alt="Praktische KI-Werkzeuge entwickeln · Daten analysieren und visualisieren · FTC- und FRC-Roboter programmieren" /></p>
 
-<img src="https://raw.githubusercontent.com/yyhJohn/yyhJohn/main/assets/focus-de.svg" width="100%" alt="ANGEWANDTE KI / DATEN ERKUNDEN / ROBOTIK" />
+<p align="center"><a href="https://github.com/yyhJohn/yyhJohn/blob/main/README.md">English</a> &nbsp; | &nbsp; <a href="https://github.com/yyhJohn/yyhJohn/blob/main/README.zh-CN.md">简体中文</a> &nbsp; | &nbsp; <a href="https://github.com/yyhJohn/yyhJohn/blob/main/README.ja.md">日本語</a> &nbsp; | &nbsp; <b>Deutsch</b> &nbsp; | &nbsp; <a href="https://github.com/yyhJohn/yyhJohn/blob/main/README.fr.md">Français</a> &nbsp; | &nbsp; <a href="https://github.com/yyhJohn/yyhJohn/blob/main/README.es.md">Español</a></p>
 
-### Mein Ansatz
+## 👨‍💻 Über mich
 
-Ich entwickle praktische Software aus Ideen und erkunde die Schnittstellen von KI, Daten und Robotik.
+- 🔭 Ich entwickle praktische KI-Werkzeuge und Webanwendungen.
+- 📊 Ich erkunde Datenanalyse, Visualisierung und Forschungswerkzeuge.
+- 🤖 Ich programmiere FTC- und FRC-Roboter mit Java.
 
-Von Webanwendungen bis zur Robotersteuerung: eine Auswahl meiner Projekte und Experimente.
+## 🛠️ Sprachen & Werkzeuge
 
-### Ausgewählte Projekte
+<p><a href="https://skillicons.dev"><img src="https://raw.githubusercontent.com/yyhJohn/yyhJohn/main/assets/skills.svg?v=developer-20261109" height="48" alt="Java, JavaScript, TypeScript, React, Node.js, Tailwind CSS, Git" /></a></p>
+
+## 📊 GitHub-Statistik
 
 <p>
-<a href="https://github.com/yyhJohn/GPA-Planner"><img src="https://raw.githubusercontent.com/yyhJohn/yyhJohn/main/assets/gpa-planner-de.svg" width="49%" alt="GPA Planner — KI-gestützte Studienplanung. GPA-Berechnung, Kurssimulation und Planung eines Auslandsstudiums." /></a>
-<a href="https://github.com/yyhJohn/brand-site"><img src="https://raw.githubusercontent.com/yyhJohn/yyhJohn/main/assets/codecat-de.svg" width="49%" alt="CodeCat — Ein Zuhause für das CodeCat-Ökosystem. Eine KI-Produktwebsite mit React und TypeScript." /></a>
+<a href="https://github.com/yyhJohn"><img src="https://raw.githubusercontent.com/yyhJohn/yyhJohn/main/assets/stats-de.svg?v=developer-20261109" width="49%" alt="Öffentliche Repos: 10; Erhaltene Sterne: 2; Erhaltene Forks: 2; Follower: 1" /></a>
+<a href="https://github.com/yyhJohn?tab=repositories"><img src="https://raw.githubusercontent.com/yyhJohn/yyhJohn/main/assets/languages-de.svg?v=developer-20261109" width="49%" alt="Häufigste Codesprachen — Öffentliche Repos · Codegröße · 2026-11-09" /></a>
+</p>
+
+## 🚀 Ausgewählte Projekte
+
+<p>
+<a href="https://github.com/yyhJohn/GPA-Planner"><img src="https://raw.githubusercontent.com/yyhJohn/yyhJohn/main/assets/gpa-planner-de.svg?v=developer-20261109" width="49%" alt="GPA-Planner — KI-gestützte Studienplanung. GPA-Berechnung, Kurssimulation und Planung eines Auslandsstudiums." /></a>
+<a href="https://github.com/yyhJohn/brand-site"><img src="https://raw.githubusercontent.com/yyhJohn/yyhJohn/main/assets/codecat-de.svg?v=developer-20261109" width="49%" alt="brand-site — Ein Zuhause für das CodeCat-Ökosystem. Eine KI-Produktwebsite mit React und TypeScript." /></a>
 </p>
 <p>
-<a href="https://github.com/yyhJohn/FTC-2022-8.1"><img src="https://raw.githubusercontent.com/yyhJohn/yyhJohn/main/assets/ftc-de.svg" width="49%" alt="FTC Robot Controller — Software für Wettbewerbsroboter. Robotersteuerung auf Basis des FIRST Tech Challenge SDK 8.1." /></a>
-<a href="https://github.com/yyhJohn/FRC"><img src="https://raw.githubusercontent.com/yyhJohn/yyhJohn/main/assets/frc-de.svg" width="49%" alt="FRC — Von Software auf das Spielfeld. Java-Code für die FIRST Robotics Competition." /></a>
+<a href="https://github.com/yyhJohn/FTC-2022-8.1"><img src="https://raw.githubusercontent.com/yyhJohn/yyhJohn/main/assets/ftc-de.svg?v=developer-20261109" width="49%" alt="FTC-2022-8.1 — Software für Wettbewerbsroboter. Robotersteuerung auf Basis des FIRST Tech Challenge SDK 8.1." /></a>
+<a href="https://github.com/yyhJohn/FRC"><img src="https://raw.githubusercontent.com/yyhJohn/yyhJohn/main/assets/frc-de.svg?v=developer-20261109" width="49%" alt="FRC — Von Software auf das Spielfeld. Java-Code für die FIRST Robotics Competition." /></a>
 </p>
 
-<p align="center">
-<a href="https://github.com/yyhJohn?tab=repositories"><b>Alle Repositories ansehen ↗</b></a> &nbsp; · &nbsp; <a href="https://github.com/yyhJohn">GitHub-Profil</a>
-</p>
-
----
-
-<p align="center"><sub>Aus Neugier entwickelt. In der Praxis verfeinert.</sub></p>
+<p align="center"><a href="https://github.com/yyhJohn?tab=repositories">Alle Repositories ansehen →</a> &nbsp; · &nbsp; <a href="https://github.com/yyhJohn">GitHub-Profil</a></p>

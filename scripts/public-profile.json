@@ -1,0 +1,45 @@
+{
+  "updated": "2026-11-09",
+  "login": "yyhJohn",
+  "publicRepos": 10,
+  "stars": 2.0,
+  "forks": 2.0,
+  "followers": 1,
+  "languages": {
+    "HTML": 1444,
+    "TypeScript": 109078,
+    "CSS": 7502,
+    "Java": 170311,
+    "JavaScript": 386474
+  },
+  "projects": [
+    {
+      "name": "brand-site",
+      "description": "CodeCat.dev - AI-Native Product Ecosystem Brand Site",
+      "language": "TypeScript",
+      "stargazers_count": 0,
+      "forks_count": 0
+    },
+    {
+      "name": "FRC",
+      "description": "FIRST Robotics Competition robot code in Java. | FRC 机器人代码",
+      "language": "Java",
+      "stargazers_count": 0,
+      "forks_count": 0
+    },
+    {
+      "name": "FTC-2022-8.1",
+      "description": "FIRST Tech Challenge robot controller based on SDK 8.1. | FTC 机器人控制项目",
+      "language": "Java",
+      "stargazers_count": 1,
+      "forks_count": 1
+    },
+    {
+      "name": "GPA-Planner",
+      "description": "AI 留学 GPA 规划工具 - GPA 计算、选课模拟、选校匹配",
+      "language": "JavaScript",
+      "stargazers_count": 1,
+      "forks_count": 1
+    }
+  ]
+}
